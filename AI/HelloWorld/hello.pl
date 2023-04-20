@@ -1,0 +1,1 @@
+main :- write('This is a sample program'),write('This program is written into hello.pl file').
