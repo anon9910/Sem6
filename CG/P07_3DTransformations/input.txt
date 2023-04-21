@@ -3,3 +3,16 @@
 200 0 0 1
 100 100 0 1
 50 50 100 1
+
+Translation: 
+x-axis: 50
+y-axis: 50
+z-axis: 50
+
+Rotation: 
+angle: 30
+
+** pehle toh tum gye kaam se kyuki yeh code pura shi na hai **
+
+** sirf translation or rotation or figure show hi kare jyada mantri na bane **
+

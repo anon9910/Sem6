@@ -4,3 +4,5 @@
 50
 300
 300
+
+** run the code twice to see the output of clipping **

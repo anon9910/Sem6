@@ -2,3 +2,12 @@
 0 0 1
 200 0 1
 100 100 1
+
+scaling: 
+1 2
+
+
+
+** pehle toh tum gye kaam se kyuki yeh code pura shi na hai **
+
+** sirf translation or rotation or figure show hi kare jyada mantri na bane **
