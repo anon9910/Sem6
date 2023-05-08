@@ -1,0 +1,11 @@
+insert :-
+    write('Enter the list: '), read(L),
+    write('Enter the element to be inserted: '), read(I),
+    write('Enter the position to insert: '), read(N),
+    insert_nth(L, I, N, R),
+    write('Result: '), write(R).
+
+insert_nth(E, 1, L, [E|L]).
+insert_nth(E, N, [H|T], [H|R]) :-
+    N1 is N - 1,
+    insert_nth(E, N1, T, R).
